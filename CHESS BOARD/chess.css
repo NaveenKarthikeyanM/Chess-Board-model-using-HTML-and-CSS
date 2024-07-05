@@ -1,0 +1,24 @@
+.a{
+    background-color: white;
+}
+.b{
+    background-color: black;
+}
+table,th,tr{
+    border-collapse: collapse;
+    border: 2px solid grey;
+    height: 60px;
+    width: 600px;
+    margin: auto;
+}
+.c1{
+    padding: 10% 40%;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+body{
+    background-color: beige;
+}
